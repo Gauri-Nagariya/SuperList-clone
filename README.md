@@ -46,7 +46,7 @@ Superlist-Old-UI/
 <hr>
 
 <h2>📸 Preview</h2>
-<p><i><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d2bcf000-22b6-4478-be2c-5d0f13a7fe49" />
+<p><i><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/467b06bb-8895-4496-bbd3-27c8d0b8470a" />
 </i></p>
 <p><i><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4785eb93-3d8d-411d-a603-bce942b534c9" />
 )</i></p>
