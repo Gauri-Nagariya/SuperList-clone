@@ -10,7 +10,7 @@ The original Superlist website has since been redesigned, but this project recre
   This is a frontend-only rebuild of the old Superlist interface. All rights to the original design belong to Superlist. This project is for educational purposes only.
 </p>
 <p>Logos and assets are property of Superlist and used here for educational purposes only.</p>
-
+<a href="https://super-list-clone.vercel.app/" class="live-link" target="_blank">View Live Demo</a>
 <hr>
 
 <h2>Features</h2>
