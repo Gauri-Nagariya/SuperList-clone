@@ -48,12 +48,12 @@ Superlist-Old-UI/
 <h2>Preview</h2>
 <p><i><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/31c5cfbb-660c-48fc-b4d9-5709634ab8e5" />
 </i></p>
-<p><i><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4785eb93-3d8d-411d-a603-bce942b534c9" />
+<!-- <p><i><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4785eb93-3d8d-411d-a603-bce942b534c9" />
 </i></p>
 <p><i><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/61cae70b-6de2-40c8-a00c-1e731952e61e" />
 </i></p>
 <p><i><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/89306c16-2c16-4ada-be1e-eb12d34c0e61" />
-</i></p>
+</i></p> -->
 
 
 <hr>
